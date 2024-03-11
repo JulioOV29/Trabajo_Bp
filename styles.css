@@ -45,3 +45,10 @@ img {
 img:hover {
     transform: scale(1.05);
 }
+
+footer {
+    background-color: #333;
+    color: #fff;
+    padding: 20px;
+    text-align: center;
+}
