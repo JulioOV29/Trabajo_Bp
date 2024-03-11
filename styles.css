@@ -26,3 +26,10 @@ h2 {
 h3 {
     text-align: center;
 }
+
+.serie1,.serie2 {
+    background-color: #f9f9f9;
+    padding: 15px;
+    border-radius: 8px;
+    margin-bottom: 20px;
+}
